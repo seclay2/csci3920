@@ -19,3 +19,7 @@ This example shows how to send and receive objects through a socket connection.
 
 - Please note that Person, a dummy class, has transient attributes that are not serialized over the sockets. 
 - The Person class has also a main method to shows how to save and load a Person object to/from a file. 
+
+
+## Library Server and Client
+Contains a single threaded server that controls the library. Also contains the JavaFX Client. This represents the solution form homework 4.
